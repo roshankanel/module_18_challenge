@@ -8,9 +8,11 @@
 
 ### Screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple block
 <br>
+
 ![](/images/verification_from_dropdown.png)
 <br>
 <br>
 ### Screenshot of the Streamlit application page, which should indicate the validity of the blockchain
-<br>
+<br
+  
 ![](/images/chain_validation.png)
